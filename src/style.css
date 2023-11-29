@@ -393,5 +393,11 @@ img{
   width: 100%;
   height:auto;
 }
-
+.connect-footer, .email-footer {
+  text-align: start;
+}
+.connect-link{
+  display: flex;
+  justify-content: space-between;
+}
 }
